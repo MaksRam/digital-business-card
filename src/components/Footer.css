@@ -1,0 +1,42 @@
+.footer {
+position: absolute;
+width: 317px;
+height: 64px;
+left: 116px;
+top: 751px;
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+}
+
+.twit{
+    width: 40px;
+    position: absolute;
+    top: 15px;
+    left: 68px;
+    border-radius: 15px;
+}
+
+.face{
+    width: 31px;
+    position: absolute;
+    top: 15px;
+    left: 123px;
+    border-radius: 15px;
+}
+
+.insta {
+    width: 33px;
+    position: absolute;
+    top: 15px;
+    left: 173px;
+    border-radius: 15px;
+}
+
+.github {
+    width: 31px;
+    position: absolute;
+    top: 8px;
+    left: 111px;
+    border-radius: 15px;
+}
